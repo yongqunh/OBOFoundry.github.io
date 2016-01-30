@@ -14,4 +14,4 @@ license:
   label: CC-BY
 ---
 
-OVAE is an extension of the Ontology of Adverse Event (OAE) and uses the vaccine information imported from the Vaccine Ontology (VO). 
+OVAE is an extension of the Ontology of Adverse Event (OAE) and the Vaccine Ontology (VO) with the focus on representing the knowledge of the adverse events of licensed vaccines. 
